@@ -12,7 +12,8 @@
   color: red;
 }
 
-.list-group-item {
+.list-group {
   border: none;
-  background: #eee;
+  background: #eee !important;
+  background-color: #eee important;
 }
