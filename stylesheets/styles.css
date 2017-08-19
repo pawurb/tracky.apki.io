@@ -12,8 +12,8 @@
   color: red;
 }
 
-.list-group {
+p.list-group-item {
   border: none;
   background: #eee !important;
-  background-color: #eee important;
+  background-color: #eee !important;
 }
